@@ -67,8 +67,8 @@ endfunction
 
 /*******************************Q2.14********************************/
 /********************************************************************/   
-                  
-//Q2.14 representation for twiddle factors
+
+//Q2.14 (+1.0) representation for twiddle factors
 localparam complex  C1 = 32'h4000_0000; // +1.0
 
 endpackage
